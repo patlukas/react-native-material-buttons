@@ -1,8 +1,8 @@
 {
   "name": "react-native-material-buttons",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "license": "BSD-3-Clause",
-  "author": "Alexander Nazarov <n4kz@n4kz.com>",
+  "author": "Alexander Nazarov <n4kz@n4kz.com>, PatLukas <https://github.com/patlukas>",
 
   "description": "Material buttons",
   "keywords": ["react", "react-component", "react-native", "ios", "android", "raised", "flat", "button", "ripple", "material"],
@@ -12,7 +12,7 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/n4kz/react-native-material-buttons.git"
+    "url": "git://github.com/patlukas/react-native-material-buttons.git"
   },
 
   "dependencies": {
