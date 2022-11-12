@@ -1,5 +1,3 @@
-[npm-badge]: https://img.shields.io/npm/v/react-native-material-buttons.svg?colorB=ff6d00
-[npm-url]: https://npmjs.com/package/react-native-material-buttons
 [license-badge]: https://img.shields.io/npm/l/react-native-material-buttons.svg?colorB=448aff
 [license-url]: https://raw.githubusercontent.com/n4kz/react-native-material-buttons/master/license.txt
 [example-url]: https://cloud.githubusercontent.com/assets/2055622/23826422/df52a53c-06ac-11e7-855f-f6d189c50320.gif
@@ -7,7 +5,6 @@
 
 # react-native-material-buttons
 
-[![npm][npm-badge]][npm-url]
 [![license][license-badge]][license-url]
 
 Material buttons with consistent behaviour on iOS and Android
@@ -25,7 +22,7 @@ Material buttons with consistent behaviour on iOS and Android
 ## Installation
 
 ```bash
-npm install --save react-native-material-buttons
+npm i https://github.com/patlukas/react-native-material-buttons
 ```
 
 ## Usage
@@ -89,7 +86,7 @@ Other [Ripple][ripple] properties will also work
 ## Example
 
 ```bash
-git clone https://github.com/n4kz/react-native-material-buttons
+git clone https://github.com/patlukas/react-native-material-buttons
 cd react-native-material-buttons/example
 npm install
 npm run ios # or npm run android
@@ -98,5 +95,3 @@ npm run ios # or npm run android
 ## Copyright and License
 
 BSD License
-
-Copyright 2017-2019 Alexander Nazarov. All rights reserved.
